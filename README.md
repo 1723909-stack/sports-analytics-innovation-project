@@ -57,3 +57,5 @@ This workflow aligns with Chapter 7 by supporting the progression from creative 
 References
 
 Alamar, B. (2024). Sports analytics: A guide for coaches, managers, and other decision makers. Columbia University Press.
+
+This enhancement improves real-time decision-making by allowing coaches to respond instantly to player performance changes.
